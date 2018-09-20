@@ -1,10 +1,13 @@
 _repo: Kuolema-ja-kuolematon_52735
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Kalima, Eino
     gutenberg_agent_id: '45362'
     url: http://www.gutenberg.org/2009/agents/45362
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schopenhauer, Arthur
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3648
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Schopenhauer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52735#Kuolema-ja-kuolematon
 gutenberg_issued: '2016-08-06'
 gutenberg_type: Text
 identifiers:
